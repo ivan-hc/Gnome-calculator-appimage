@@ -1,0 +1,1 @@
+https://github.com/ivan-hc/Gnome-calculator-appimage/releases/download/continuous/Calculator_47.1-1-archimage4.3-x86_64.AppImage
