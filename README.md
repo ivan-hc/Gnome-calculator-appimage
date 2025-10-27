@@ -1,8 +1,10 @@
 This repository creates and distributes the unofficial Appimage built on top of JuNest ([ArchImage](https://github.com/ivan-hc/ArchImage)).
 
-To use it in AM, see the option "`-e`" or "`extra`", at https://github.com/ivan-hc/AM/blob/main/docs/guides-and-tutorials/extra.md#install-appimages-not-listed-in-this-database-but-available-in-other-github-repos
+Archived on October 27, 2025, in favour of https://github.com/pkgforge-dev/Gnome-Calculator-Appimage
 
-See also https://github.com/pkgforge-dev/Gnome-Calculator-Appimage for a better alternative (the latter replaces this Archimage in AM since August 18, 2025).
+The above is a better alternative that have already replaces this Archimage in AM since August 18, 2025.
+
+Running  `am -i gnome-calculator` or `appman -i gnome-calculator` installs https://github.com/pkgforge-dev/Gnome-Calculator-Appimage
 
 ------------------------------------------------------------------------
 
